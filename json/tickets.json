@@ -1,0 +1,29 @@
+{
+    "panel_1312374775636562091_شراء متجر": {
+        "name": "شراء متجر",
+        "category": "1313117221421187102",
+        "style": "Secondary",
+        "role": "1313116807393050694",
+        "welcomeMessage": "طز",
+        "emoji": "<:emoji_109:1208337656967077938>",
+        "image": null
+    },
+    "panel_1287487658683011224_1": {
+        "name": "1",
+        "category": "1287489565166141531",
+        "style": "Danger",
+        "role": "1287488554510975107",
+        "welcomeMessage": "1",
+        "emoji": null,
+        "image": null
+    },
+    "panel_1287487658683011224_12": {
+        "name": "12",
+        "category": "1287489565166141531",
+        "style": "Danger",
+        "role": "1287488543949586512",
+        "welcomeMessage": "1",
+        "emoji": null,
+        "image": null
+    }
+}
